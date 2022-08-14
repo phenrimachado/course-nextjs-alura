@@ -47,7 +47,7 @@ export default function FAQScreen({ faq }) {
                 color:theme.colors.neutral[900],
               }}
             >
-              FAQ: Perguntas frequentes do Alura Cases
+              FAQ: Perguntas Frequentes do Alura Cases
             </Text>
             <Text
               as="p"
